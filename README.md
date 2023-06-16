@@ -2,8 +2,15 @@ E-COMMERCE WEBSITE FOR HEALTH CARE, BEAUTY & SPA
 
 
 This is 10 Page E-commerce Front End website design
+
 Web Technologies used: HTML, CSS, JS
+
 IDE: VS-Code
+
+Project Demo: https://calm-coast-0f539ee00.3.azurestaticapps.net/about.html
+
+Project Demo URL: https://youtu.be/_YzAU3Q2lPE
+
 Note: Bot is deployed on INDEX page
 
 Industry: 
